@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+Constants.py
+
+
+Misc/
+
+*.pkl
+
+
+*.csv
+
+*.json
+
+places_data/
