@@ -49,7 +49,7 @@ Location data is crucial for research in mental health assessment and epidemic f
 ## Paper  
 
 For more details, refer to the full paper:
-[**A Google Timeline Extension for Location Classification**](https://github.com/gladstone-9/cs6501-bespoke-framework/blob/main/Place_Sense_Gabriel_Gladstone.pdf)
+[**A Google Timeline Extension for Location Classification**](https://github.com/gladstone-9/cs6501-place-sense/blob/main/Place_Sense_Gabriel_Gladstone.pdf)
 
 ## Data
 
